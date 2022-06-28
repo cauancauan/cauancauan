@@ -1,5 +1,7 @@
 ### Olá! 👊
 
+<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">width="30px">, me chamo Cauan</h1>
+
 
 
 ![Cauan GitHub stats](https://github-readme-stats.vercel.app/api?username=cauancauan&show_icons=true&theme=onedark)
