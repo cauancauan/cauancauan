@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Cauan GitHub stats](https://github-readme-stats.vercel.app/api?username=cauancauan&show_icons=true&theme=radical)
+![Cauan GitHub stats](https://github-readme-stats.vercel.app/api?username=cauancauan&show_icons=true&theme=onedark)
 
