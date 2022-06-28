@@ -1,6 +1,6 @@
 ### Olá! 👊
 
-<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">width="30px">, me chamo Cauan</h1>
+<h1 align="left">Olá!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif">width="5px">, me chamo Cauan</h1>
 
 
 
